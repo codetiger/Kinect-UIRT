@@ -1,0 +1,1859 @@
+TopenFrameworks
+v7
+r0
+t316678074.601639
+cCheck dependencies
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofAppGlutWindow.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofAppRunner.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofArduino.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofSerial.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofBitmapFont.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofGraphics.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofImage.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofTexture.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofTrueTypeFont.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofSoundPlayer.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofSoundStream.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofMath.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofUtils.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofQtUtils.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofVideoGrabber.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofVideoPlayer.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cLibtool /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/openFrameworksUniversal.a normal ppc
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofAppRunner.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofArduino.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofSerial.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofBitmapFont.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofGraphics.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofImage.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofTexture.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofTrueTypeFont.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofSoundPlayer.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofSoundStream.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofMath.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofUtils.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofQtUtils.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cLibtool /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/openFrameworksUniversal.a normal i386
+cCreateUniversalBinary /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx//openFrameworksUniversal.a normal "ppc i386"
+
+N/System/Library/Frameworks/AGL.framework/AGL
+c000000004BD2589F0000000000043820
+t1272076447
+s276512
+
+N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c000000004A12050E0000000000022140
+t1242694926
+s139584
+
+N/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.h
+c000000004A12050C0000000000000475
+t1242694924
+s1141
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CD6066B00000000004D2720
+t1289094763
+s5056288
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004C0FDD7E000000000000A5F0
+t1276108158
+s42480
+
+N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004CD4F57800000000002181A0
+t1289024888
+s2195872
+
+N/System/Library/Frameworks/CoreAudio.framework/Headers/AudioHardware.h
+c000000004C23A145000000000002DC86
+t1277403461
+s187526
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004CD606A40000000000781330
+t1289094820
+s7869232
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004C23F49F0000000000021710
+t1277424799
+s136976
+
+N/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
+c000000004A11F0980000000000000400
+t1242689688
+s1024
+
+N/System/Library/Frameworks/GLUT.framework/GLUT
+c000000004A12475500000000001A2920
+t1242711893
+s1714464
+
+N/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+c000000004C23CCCC000000000000578C
+t1277414604
+s22412
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004BD2501F0000000000025B59
+t1272074271
+s154457
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c000000004BD2501F0000000000003F84
+t1272074271
+s16260
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004CE74B410000000000043330
+t1290226497
+s275248
+
+N/System/Library/Frameworks/QuickTime.framework/Headers/QuickTime.h
+c000000004C23C4D00000000000000659
+t1277412560
+s1625
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c000000004CD605B90000000000783950
+t1289094585
+s7878992
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/fmodex/include/fmod.h
+c000000004CE370300000000000028E68
+t1289973808
+s167528
+i"fmod_codec.h"
+i"fmod_dsp.h"
+i"fmod_memoryinfo.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/fmodex/include/fmod_codec.h
+c000000004CE37030000000000000334A
+t1289973808
+s13130
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/fmodex/include/fmod_dsp.h
+c000000004CE37030000000000000892F
+t1289973808
+s35119
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/fmodex/include/fmod_memoryinfo.h
+c000000004CE370300000000000003C95
+t1289973808
+s15509
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/freetype/include/freetype2/freetype/config/ftheader.h
+c000000004CE370300000000000005B39
+t1289973808
+s23353
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/freetype/include/freetype2/freetype/freetype.h
+c000000004CE370300000000000032885
+t1289973808
+s206981
+i<ft2build.h>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/freetype/include/freetype2/freetype/ftglyph.h
+c000000004CE370300000000000008DCF
+t1289973808
+s36303
+i<ft2build.h>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/freetype/include/freetype2/freetype/ftoutln.h
+c000000004CE370300000000000007B3C
+t1289973808
+s31548
+i<ft2build.h>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/freetype/include/freetype2/freetype/fttrigon.h
+c000000004CE3703000000000000020FB
+t1289973808
+s8443
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/freetype/include/ft2build.h
+c000000004CE370300000000000000F32
+t1289973808
+s3890
+i<freetype/config/ftheader.h>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/app/ofAppBaseWindow.h
+c000000004CE370300000000000000446
+t1289973808
+s1094
+i"ofTypes.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/app/ofAppGlutWindow.h
+c000000004CE37030000000000000066B
+t1289973808
+s1643
+i"ofConstants.h"
+i"ofAppBaseWindow.h"
+i"glut.h"
+i<GLUT/glut.h>
+i<GL/glut.h>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/app/ofAppRunner.h
+c000000004CE37030000000000000050D
+t1289973808
+s1293
+i"ofMain.h"
+i"ofBaseApp.h"
+i"ofAppBaseWindow.h"
+i"ofAppGlutWindow.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/app/ofBaseApp.h
+c000000004CE370300000000000000376
+t1289973808
+s886
+i"ofTypes.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/communication/ofArduino.h
+c000000004CE370300000000000003D3C
+t1289973808
+s15676
+i<list>
+i<vector>
+i<string>
+i<iostream>
+i"ofEvents.h"
+i"ofSerial.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/communication/ofSerial.h
+c000000004CE370300000000000000D2E
+t1289973808
+s3374
+i"ofConstants.h"
+i<termios.h>
+i<sys/ioctl.h>
+i<getopt.h>
+i<dirent.h>
+i<winbase.h>
+i<tchar.h>
+i<iostream>
+i<string.h>
+i<setupapi.h>
+i<regstr.h>
+i<winioctl.h>
+i<initguid.h>
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<fcntl.h>
+i<errno.h>
+i<ctype.h>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/events/ofEventUtils.h
+c000000004CE370300000000000000AFA
+t1289973808
+s2810
+i"ofConstants.h"
+i"Poco/FIFOEvent.h"
+i"Poco/Delegate.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/graphics/ofBitmapFont.h
+c000000004CE370300000000000000206
+t1289973808
+s518
+i"ofConstants.h"
+i"ofTexture.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/graphics/ofGraphics.h
+c000000004CE370300000000000000D63
+t1289973808
+s3427
+i"ofConstants.h"
+i"ofTypes.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/graphics/ofImage.h
+c000000004CE370300000000000000D09
+t1289973808
+s3337
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofGraphics.h"
+i"ofAppRunner.h"
+i"FreeImage.h"
+i"ofUtils.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/graphics/ofTexture.h
+c000000004CE370300000000000000C4B
+t1289973808
+s3147
+i"ofConstants.h"
+i"ofGraphics.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/graphics/ofTrueTypeFont.h
+c000000004CE37030000000000000087A
+t1289973808
+s2170
+i"ofConstants.h"
+i"ofGraphics.h"
+i"ofUtils.h"
+i"ofTypes.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/sound/ofSoundPlayer.h
+c000000004CE3703000000000000006C3
+t1289973808
+s1731
+i"ofConstants.h"
+i"fmod.h"
+i"fmod_errors.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/sound/ofSoundStream.h
+c000000004CE370300000000000000254
+t1289973808
+s596
+i"ofConstants.h"
+i"ofBaseApp.h"
+i"ofEvents.h"
+i"ofMath.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/utils/ofConstants.h
+c000000004CE370300000000000002ACC
+t1289973808
+s10956
+i<TargetConditionals.h>
+i<windows.h>
+i"GLee.h"
+i"glu.h"
+i<unistd.h>
+i"GLee.h"
+i<OpenGL/glu.h>
+i<ApplicationServices/ApplicationServices.h>
+i<unistd.h>
+i"GLee.h"
+i<GL/glu.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<cstdlib>
+i<cstdio>
+i<cstdarg>
+i<cmath>
+i<ctime>
+i<cstdlib>
+i<string>
+i<iostream>
+i<vector>
+i<cstring>
+i<sstream>
+i<iomanip>
+i<fstream>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/utils/ofMath.h
+c000000004CE370300000000000000A66
+t1289973808
+s2662
+i"ofConstants.h"
+i"ofTypes.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/utils/ofNoise.h
+c000000004CE370300000000000004F24
+t1289973808
+s20260
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/utils/ofTypes.h
+c000000004CE370300000000000001D5F
+t1289973808
+s7519
+i"ofConstants.h"
+i"ofUtils.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/utils/ofUtils.h
+c000000004CE3703000000000000005A4
+t1289973808
+s1444
+i"ofConstants.h"
+i<shellapi.h>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/video/ofGstUtils.h
+c000000004CE370300000000000000B55
+t1289973808
+s2901
+i<gst/gst.h>
+i<pthread.h>
+i"ofConstants.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/video/ofQtUtils.h
+c000000004CE3703000000000000006CF
+t1289973808
+s1743
+i"ofConstants.h"
+i"ofGraphics.h"
+i<QuickTime/QuickTime.h>
+i<CoreServices/CoreServices.h>
+i<ApplicationServices/ApplicationServices.h>
+i<QTML.h>
+i<FixMath.h>
+i<QuickTimeComponents.h>
+i<TextUtils.h>
+i<MediaHandlers.h>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/video/ofVideoGrabber.h
+c000000004CE370300000000000000C9C
+t1289973808
+s3228
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofGraphics.h"
+i"ofTypes.h"
+i"ofQtUtils.h"
+i"videoInput.h"
+i"ofUCUtils.h"
+i"ofGstUtils.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/video/ofVideoPlayer.h
+c000000004CE370300000000000000C33
+t1289973808
+s3123
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofGstUtils.h"
+i"ofQtUtils.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../FreeImage/include/FreeImage.h
+c000000004CE37030000000000000CC1B
+t1289973808
+s52251
+i<wchar.h>
+i<inttypes.h>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../fmodex/include/fmod.h
+c000000004CE370300000000000028E68
+t1289973808
+s167528
+i"fmod_codec.h"
+i"fmod_dsp.h"
+i"fmod_memoryinfo.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../fmodex/include/fmod_errors.h
+c000000004CE370300000000000003408
+t1289973808
+s13320
+i"fmod.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../glee/include/GLee.h
+c000000004CE370300000000000090A87
+t1289973808
+s592519
+i<windows.h>
+i<GL/gl.h>
+i<OpenGL/gl.h>
+i<GL/gl.h>
+i<GL/glx.h>
+i<stddef.h>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp
+c000000004CE370300000000000004730
+t1289973808
+s18224
+i"ofAppGlutWindow.h"
+i"ofBaseApp.h"
+i"ofMain.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp
+c000000004CE370300000000000001876
+t1289973808
+s6262
+i"ofAppRunner.h"
+i"ofAppiPhoneWindow.h"
+i"ofAppGlutWindow.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.h
+c000000004CE37030000000000000050D
+t1289973808
+s1293
+i"ofMain.h"
+i"ofBaseApp.h"
+i"ofAppBaseWindow.h"
+i"ofAppGlutWindow.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp
+c000000004CE370300000000000004269
+t1289973808
+s17001
+i"ofArduino.h"
+i"ofUtils.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.h
+c000000004CE370300000000000003D3C
+t1289973808
+s15676
+i<list>
+i<vector>
+i<string>
+i<iostream>
+i"ofEvents.h"
+i"ofSerial.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp
+c000000004CE370300000000000004991
+t1289973808
+s18833
+i"ofSerial.h"
+i"ofMain.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.h
+c000000004CE370300000000000000D2E
+t1289973808
+s3374
+i"ofConstants.h"
+i<termios.h>
+i<sys/ioctl.h>
+i<getopt.h>
+i<dirent.h>
+i<winbase.h>
+i<tchar.h>
+i<iostream>
+i<string.h>
+i<setupapi.h>
+i<regstr.h>
+i<winioctl.h>
+i<initguid.h>
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<fcntl.h>
+i<errno.h>
+i<ctype.h>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/events/ofEvents.h
+c000000004CE37030000000000000126C
+t1289973808
+s4716
+i"ofConstants.h"
+i"ofUtils.h"
+i"ofEventUtils.h"
+i"ofxEventUtils.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp
+c000000004CE370300000000000009D17
+t1289973808
+s40215
+i"ofBitmapFont.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp
+c000000004CE3703000000000000081A7
+t1289973808
+s33191
+i"ofGraphics.h"
+i"ofAppRunner.h"
+i"ofBitmapFont.h"
+i<OpenGL/glu.h>
+i"glu.h"
+i"GL/glu.h"
+i"glu.h"
+i<vector>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.h
+c000000004CE370300000000000000D63
+t1289973808
+s3427
+i"ofConstants.h"
+i"ofTypes.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp
+c000000004CE370300000000000003F3D
+t1289973808
+s16189
+i"ofImage.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.h
+c000000004CE370300000000000000D09
+t1289973808
+s3337
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofGraphics.h"
+i"ofAppRunner.h"
+i"FreeImage.h"
+i"ofUtils.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.cpp
+c000000004CE37030000000000000481C
+t1289973808
+s18460
+i"ofTexture.h"
+i"ofUtils.h"
+i"ofAppRunner.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.h
+c000000004CE370300000000000000C4B
+t1289973808
+s3147
+i"ofConstants.h"
+i"ofGraphics.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp
+c000000004CE370300000000000006D00
+t1289973808
+s27904
+i"ofTrueTypeFont.h"
+i<ft2build.h>
+i<freetype/freetype.h>
+i<freetype/ftglyph.h>
+i<freetype/ftoutln.h>
+i<freetype/fttrigon.h>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.h
+c000000004CE37030000000000000087A
+t1289973808
+s2170
+i"ofConstants.h"
+i"ofGraphics.h"
+i"ofUtils.h"
+i"ofTypes.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/ofMain.h
+c000000004CE370300000000000000347
+t1289973808
+s839
+i"ofConstants.h"
+i"ofMath.h"
+i"ofUtils.h"
+i"ofTypes.h"
+i"ofSerial.h"
+i"ofArduino.h"
+i"ofTexture.h"
+i"ofTrueTypeFont.h"
+i"ofGraphics.h"
+i"ofImage.h"
+i"ofBaseApp.h"
+i"ofAppRunner.h"
+i"ofSoundStream.h"
+i"ofSoundPlayer.h"
+i"ofVideoGrabber.h"
+i"ofVideoPlayer.h"
+i"ofEvents.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp
+c000000004CE370300000000000002413
+t1289973808
+s9235
+i"ofSoundPlayer.h"
+i"ofUtils.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.h
+c000000004CE3703000000000000006C3
+t1289973808
+s1731
+i"ofConstants.h"
+i"fmod.h"
+i"fmod_errors.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp
+c000000004CE37030000000000000143C
+t1289973808
+s5180
+i"ofSoundStream.h"
+i"RtAudio.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.h
+c000000004CE370300000000000000254
+t1289973808
+s596
+i"ofConstants.h"
+i"ofBaseApp.h"
+i"ofEvents.h"
+i"ofMath.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofConstants.h
+c000000004CE370300000000000002ACC
+t1289973808
+s10956
+i<TargetConditionals.h>
+i<windows.h>
+i"GLee.h"
+i"glu.h"
+i<unistd.h>
+i"GLee.h"
+i<OpenGL/glu.h>
+i<ApplicationServices/ApplicationServices.h>
+i<unistd.h>
+i"GLee.h"
+i<GL/glu.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<cstdlib>
+i<cstdio>
+i<cstdarg>
+i<cmath>
+i<ctime>
+i<cstdlib>
+i<string>
+i<iostream>
+i<vector>
+i<cstring>
+i<sstream>
+i<iomanip>
+i<fstream>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.cpp
+c000000004CE370300000000000002440
+t1289973808
+s9280
+i"ofMath.h"
+i"ofAppRunner.h"
+i"float.h"
+i<sys/time.h>
+i"ofNoise.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.h
+c000000004CE370300000000000000A66
+t1289973808
+s2662
+i"ofConstants.h"
+i"ofTypes.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofTypes.h
+c000000004CE370300000000000001D5F
+t1289973808
+s7519
+i"ofConstants.h"
+i"ofUtils.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp
+c000000004CE370300000000000002A00
+t1289973808
+s10752
+i"ofUtils.h"
+i"ofImage.h"
+i"sys/time.h"
+i<mmsystem.h>
+i<direct.h>
+i<mach-o/dyld.h>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp
+c000000004CE3703000000000000024FB
+t1289973808
+s9467
+i"ofQtUtils.h"
+i"ofUtils.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp
+c000000004CE370300000000000007E9C
+t1289973808
+s32412
+i"ofVideoGrabber.h"
+i"ofUtils.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.h
+c000000004CE370300000000000000C9C
+t1289973808
+s3228
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofGraphics.h"
+i"ofTypes.h"
+i"ofQtUtils.h"
+i"videoInput.h"
+i"ofUCUtils.h"
+i"ofGstUtils.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp
+c000000004CE370300000000000006CCD
+t1289973808
+s27853
+i"ofVideoPlayer.h"
+i"ofUtils.h"
+i<gst/video/video.h>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.h
+c000000004CE370300000000000000C33
+t1289973808
+s3123
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofGstUtils.h"
+i"ofQtUtils.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../rtAudio/include/RtAudio.h
+c000000004CE370360000000000009B55
+t1289973814
+s39765
+i<string>
+i<vector>
+i"RtError.h"
+i<windows.h>
+i<process.h>
+i<pthread.h>
+i<sys/time.h>
+i<sstream>
+i<CoreAudio/AudioHardware.h>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx//openFrameworksUniversal.a
+t1294985274
+s13892008
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o
+t1294985252
+s801428
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofAppRunner.o
+t1294985254
+s1088760
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofArduino.o
+t1294985257
+s1046516
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofBitmapFont.o
+t1294985258
+s80312
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofGraphics.o
+t1294985261
+s481420
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofImage.o
+t1294985261
+s404960
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofMath.o
+t1294985268
+s400772
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofQtUtils.o
+t1294985270
+s62864
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofSerial.o
+t1294985257
+s368520
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofSoundPlayer.o
+t1294985265
+s85332
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofSoundStream.o
+t1294985267
+s518248
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofTexture.o
+t1294985263
+s366188
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofTrueTypeFont.o
+t1294985264
+s358416
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofUtils.o
+t1294985270
+s486308
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o
+t1294985272
+s126928
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o
+t1294985273
+s125460
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/openFrameworksUniversal.LinkFileList
+c000000004D2FE8020000000000000CDA
+t1294985218
+s3290
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/openFrameworksUniversal.a
+t1294985273
+s6881512
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofAppGlutWindow.o
+t1294985225
+s816780
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofAppRunner.o
+t1294985232
+s1141200
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofArduino.o
+t1294985230
+s1064196
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofBitmapFont.o
+t1294985233
+s81028
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofGraphics.o
+t1294985236
+s495840
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofImage.o
+t1294985236
+s404092
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofMath.o
+t1294985243
+s400968
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofQtUtils.o
+t1294985244
+s62552
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofSerial.o
+t1294985233
+s367152
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofSoundPlayer.o
+t1294985240
+s83816
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofSoundStream.o
+t1294985242
+s524476
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofTexture.o
+t1294985238
+s366860
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofTrueTypeFont.o
+t1294985240
+s380956
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofUtils.o
+t1294985245
+s491692
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofVideoGrabber.o
+t1294985247
+s125288
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofVideoPlayer.o
+t1294985248
+s125212
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/openFrameworksUniversal.LinkFileList
+c000000004D2FE8020000000000000CCA
+t1294985218
+s3274
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/openFrameworksUniversal.a
+t1294985248
+s7010448
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/AbstractDelegate.h
+c000000004CE370300000000000000B2E
+t1289973808
+s2862
+i"Poco/Foundation.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/AbstractEvent.h
+c000000004CE370300000000000002C6A
+t1289973808
+s11370
+i"Poco/Foundation.h"
+i"Poco/SingletonHolder.h"
+i"Poco/SharedPtr.h"
+i"Poco/ActiveResult.h"
+i"Poco/ActiveMethod.h"
+i"Poco/Mutex.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ActiveMethod.h
+c000000004CE370300000000000001C64
+t1289973808
+s7268
+i"Poco/Foundation.h"
+i"Poco/ActiveResult.h"
+i"Poco/ActiveRunnable.h"
+i"Poco/ActiveStarter.h"
+i"Poco/AutoPtr.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ActiveResult.h
+c000000004CE370300000000000002E66
+t1289973808
+s11878
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+i"Poco/Event.h"
+i"Poco/RefCountedObject.h"
+i"Poco/Exception.h"
+i<algorithm>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ActiveRunnable.h
+c000000004CE370300000000000001785
+t1289973808
+s6021
+i"Poco/Foundation.h"
+i"Poco/ActiveResult.h"
+i"Poco/Runnable.h"
+i"Poco/RefCountedObject.h"
+i"Poco/AutoPtr.h"
+i"Poco/Exception.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ActiveStarter.h
+c000000004CE370300000000000000927
+t1289973808
+s2343
+i"Poco/Foundation.h"
+i"Poco/ThreadPool.h"
+i"Poco/ActiveRunnable.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/AutoPtr.h
+c000000004CE370300000000000001E0C
+t1289973808
+s7692
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<algorithm>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Bugcheck.h
+c000000004CE3703000000000000012FE
+t1289973808
+s4862
+i"Poco/Foundation.h"
+i<string>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/CompareFunctions.h
+c000000004CE3703000000000000007EC
+t1289973808
+s2028
+i"Poco/Foundation.h"
+i<functional>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Config.h
+c000000004CE3703000000000000008B5
+t1289973808
+s2229
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Delegate.h
+c000000004CE370300000000000001802
+t1289973808
+s6146
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/FunctionDelegate.h"
+i"Poco/Expire.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Event.h
+c000000004CE370300000000000000E21
+t1289973808
+s3617
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/Event_WIN32.h"
+i"Poco/Event_POSIX.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Event_POSIX.h
+c000000004CE370300000000000000A91
+t1289973808
+s2705
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<pthread.h>
+i<errno.h>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Event_WIN32.h
+c000000004CE370300000000000000947
+t1289973808
+s2375
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Exception.h
+c000000004CE3703000000000000026AC
+t1289973808
+s9900
+i"Poco/Foundation.h"
+i<stdexcept>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Expire.h
+c000000004CE370300000000000000CF1
+t1289973808
+s3313
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/Timestamp.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/FIFOEvent.h
+c000000004CE370300000000000000AD4
+t1289973808
+s2772
+i"Poco/AbstractEvent.h"
+i"Poco/FIFOStrategy.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/CompareFunctions.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/FIFOStrategy.h
+c000000004CE3703000000000000010F3
+t1289973808
+s4339
+i"Poco/NotificationStrategy.h"
+i<map>
+i<list>
+i<memory>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Foundation.h
+c000000004CE370300000000000001023
+t1289973808
+s4131
+i"Poco/Config.h"
+i"Poco/Platform.h"
+i"Poco/Platform_WIN32.h"
+i"Poco/Platform_VMS.h"
+i"Poco/Platform_POSIX.h"
+i"Poco/Bugcheck.h"
+i"Poco/Types.h"
+i<string>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/FunctionDelegate.h
+c000000004CE3703000000000000013CA
+t1289973808
+s5066
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Mutex.h
+c000000004CE370300000000000001A61
+t1289973808
+s6753
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/ScopedLock.h"
+i"Poco/Mutex_WIN32.h"
+i"Poco/Mutex_POSIX.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Mutex_POSIX.h
+c000000004CE370300000000000000AC3
+t1289973808
+s2755
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<pthread.h>
+i<errno.h>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Mutex_WIN32.h
+c000000004CE370300000000000000A07
+t1289973808
+s2567
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/NotificationStrategy.h
+c000000004CE370300000000000000A37
+t1289973808
+s2615
+i"Poco/Foundation.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Platform.h
+c000000004CE370300000000000001A3A
+t1289973808
+s6714
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Platform_POSIX.h
+c000000004CE370300000000000000843
+t1289973808
+s2115
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Platform_VMS.h
+c000000004CE370300000000000000BAA
+t1289973808
+s2986
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Platform_WIN32.h
+c000000004CE370300000000000000D4D
+t1289973808
+s3405
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/RefCountedObject.h
+c000000004CE370300000000000000B10
+t1289973808
+s2832
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Runnable.h
+c000000004CE370300000000000000861
+t1289973808
+s2145
+i"Poco/Foundation.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ScopedLock.h
+c000000004CE3703000000000000008EB
+t1289973808
+s2283
+i"Poco/Foundation.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/SharedPtr.h
+c000000004CE3703000000000000021DE
+t1289973808
+s8670
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/Mutex.h"
+i<algorithm>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/SignalHandler.h
+c000000004CE3703000000000000011EB
+t1289973808
+s4587
+i"Poco/Foundation.h"
+i<vector>
+i<setjmp.h>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/SingletonHolder.h
+c000000004CE370300000000000000A64
+t1289973808
+s2660
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Thread.h
+c000000004CE370300000000000001C3A
+t1289973808
+s7226
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+i"Poco/Thread_WIN32.h"
+i"Poco/Thread_POSIX.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ThreadPool.h
+c000000004CE370300000000000001849
+t1289973808
+s6217
+i"Poco/Foundation.h"
+i"Poco/Thread.h"
+i"Poco/Mutex.h"
+i<vector>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Thread_POSIX.h
+c000000004CE3703000000000000012A8
+t1289973808
+s4776
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/SignalHandler.h"
+i"Poco/Event.h"
+i"Poco/RefCountedObject.h"
+i"Poco/AutoPtr.h"
+i<pthread.h>
+i<sys/select.h>
+i<errno.h>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Thread_WIN32.h
+c000000004CE37030000000000000106C
+t1289973808
+s4204
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/UnWindows.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Timestamp.h
+c000000004CE3703200000000000019A7
+t1289973810
+s6567
+i"Poco/Foundation.h"
+i<ctime>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Types.h
+c000000004CE370320000000000001910
+t1289973810
+s6416
+i"Poco/Foundation.h"
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/UnWindows.h
+c000000004CE370320000000000000FD1
+t1289973810
+s4049
+i<windows.h>
+
+N/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/rtAudio/include/RtError.h
+c000000004CE370360000000000000846
+t1289973814
+s2118
+i<exception>
+i<iostream>
+i<string>
+
+N/usr/include/TargetConditionals.h
+c000000004A11A9B300000000000031E9
+t1242671539
+s12777
+
+N/usr/include/ctype.h
+c000000004BBD2CE90000000000002C18
+t1270689001
+s11288
+
+N/usr/include/dirent.h
+c000000004BBD2CE900000000000016D3
+t1270689001
+s5843
+
+N/usr/include/errno.h
+c000000004BBD2CE900000000000003EB
+t1270689001
+s1003
+
+N/usr/include/fcntl.h
+c000000004BBD2CE900000000000003EA
+t1270689001
+s1002
+
+N/usr/include/float.h
+c000000004BBD2CE90000000000001F2C
+t1270689001
+s7980
+
+N/usr/include/getopt.h
+c000000004BBD2CE90000000000000CBC
+t1270689001
+s3260
+
+N/usr/include/inttypes.h
+c000000004BBD2CE900000000000027D1
+t1270689001
+s10193
+
+N/usr/include/mach-o/dyld.h
+c000000004C74B5950000000000003D47
+t1282717077
+s15687
+
+N/usr/include/pthread.h
+c000000004BBD2CE900000000000038F0
+t1270689001
+s14576
+
+N/usr/include/setjmp.h
+c000000004BBD2CE90000000000000438
+t1270689001
+s1080
+
+N/usr/include/stddef.h
+c000000004BBD2CE90000000000001404
+t1270689001
+s5124
+
+N/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/usr/include/sys/ioctl.h
+c000000004C239946000000000000116C
+t1277401414
+s4460
+
+N/usr/include/sys/select.h
+c000000004C23994700000000000016A2
+t1277401415
+s5794
+
+N/usr/include/sys/time.h
+c000000004C2399480000000000001E17
+t1277401416
+s7703
+
+N/usr/include/termios.h
+c000000004BBD2CE900000000000004D4
+t1270689001
+s1236
+
+N/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+
+N/usr/include/wchar.h
+c000000004BBD2CE900000000000025DA
+t1270689001
+s9690
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316678018#316678018#0(0"0(0#1#0"8612768960#0"0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s316678047.337097
+e316678052.097031
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@159"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp316678047#316678052#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#151"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp8618564480#1717"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/i386 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofAppRunner.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s316678048.271360
+e316678054.988712
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofAppRunner.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@155"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp316678048#316678055#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#147"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp8618604544#1709"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/i386 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofAppRunner.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofArduino.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s316678052.097173
+e316678057.019281
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofArduino.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@163"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp316678052#316678057#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#155"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp8606229216#1715"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/i386 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofArduino.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofBitmapFont.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s316678057.019456
+e316678058.367234
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofBitmapFont.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@161"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp316678057#316678058#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#153"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp8615735744#1716"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/i386 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofBitmapFont.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofGraphics.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s316678057.660744
+e316678061.061248
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofGraphics.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@159"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp316678057#316678061#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#151"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp8614432896#1712"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/i386 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofGraphics.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofImage.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s316678058.367334
+e316678061.323321
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofImage.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@156"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp316678058#316678061#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#148"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp8614186624#1706"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/i386 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofImage.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofMath.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s316678065.311438
+e316678068.155264
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofMath.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@152"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.cpp316678065#316678068#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#144"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.cpp8614814336#1701"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/i386 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofMath.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofQtUtils.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s316678068.155363
+e316678070.131734
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofQtUtils.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@155"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp316678068#316678070#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#147"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp8611046304#1707"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/i386 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofQtUtils.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofSerial.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s316678054.988887
+e316678057.660644
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofSerial.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@162"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp316678055#316678057#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#154"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp8612434368#1713"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/i386 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofSerial.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofSoundPlayer.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s316678063.751029
+e316678065.311262
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofSoundPlayer.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@159"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp316678063#316678065#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#151"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp8603663040#1715"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/i386 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofSoundPlayer.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofSoundStream.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s316678064.957819
+e316678067.458604
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofSoundStream.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@159"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp316678064#316678067#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#151"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp8615917568#1715"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/i386 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofSoundStream.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofTexture.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s316678061.061430
+e316678063.750725
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofTexture.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@158"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.cpp316678061#316678063#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#150"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.cpp8618007744#1710"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/i386 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofTexture.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofTrueTypeFont.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s316678061.323424
+e316678064.957717
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofTrueTypeFont.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@163"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp316678061#316678064#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#155"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp8615060448#1720"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/i386 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofTrueTypeFont.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofUtils.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s316678067.458765
+e316678070.890512
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofUtils.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@153"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp316678067#316678070#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#145"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp8611545344#1703"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/i386 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofUtils.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s316678070.131869
+e316678072.425297
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@160"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp316678070#316678072#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#152"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp8612819904#1717"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/i386 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s316678070.890612
+e316678073.073229
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@159"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp316678070#316678073#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#151"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp8617674080#1715"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/i386 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofAppGlutWindow.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s316678018.724804
+e316678025.888038
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofAppGlutWindow.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@159"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp316678018#316678025#0(95"powerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#151"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp8599654784#1709"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -mtune=G5 -ftree-vectorize -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/ppc -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofAppGlutWindow.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofAppRunner.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s316678018.726228
+e316678032.046696
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofAppRunner.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@155"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp316678018#316678032#0(95"powerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#147"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp8618409792#1701"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -mtune=G5 -ftree-vectorize -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/ppc -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofAppRunner.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofArduino.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s316678025.888222
+e316678030.918655
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofArduino.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@163"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp316678025#316678030#0(95"powerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#155"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp8618489920#1707"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -mtune=G5 -ftree-vectorize -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/ppc -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofArduino.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofBitmapFont.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s316678032.046799
+e316678033.335383
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofBitmapFont.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@161"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp316678032#316678033#0(95"powerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#153"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp8618486496#1708"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -mtune=G5 -ftree-vectorize -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/ppc -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofBitmapFont.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofGraphics.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s316678033.335520
+e316678036.660330
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofGraphics.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@159"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp316678033#316678036#0(95"powerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#151"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp8615232512#1704"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -mtune=G5 -ftree-vectorize -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/ppc -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofGraphics.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofImage.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s316678033.418623
+e316678036.169337
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofImage.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@156"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp316678033#316678036#0(95"powerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#148"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp8614948704#1698"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -mtune=G5 -ftree-vectorize -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/ppc -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofImage.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofMath.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s316678040.288457
+e316678043.043903
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofMath.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@152"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.cpp316678040#316678043#0(95"powerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#144"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.cpp8617267360#1693"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -mtune=G5 -ftree-vectorize -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/ppc -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofMath.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofQtUtils.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s316678043.044004
+e316678044.912419
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofQtUtils.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@155"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp316678043#316678044#0(95"powerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#147"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp8617948640#1699"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -mtune=G5 -ftree-vectorize -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/ppc -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofQtUtils.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofSerial.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s316678030.918809
+e316678033.418523
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofSerial.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@162"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp316678030#316678033#0(95"powerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#154"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp8614170752#1705"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -mtune=G5 -ftree-vectorize -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/ppc -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofSerial.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofSoundPlayer.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s316678038.628646
+e316678040.102006
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofSoundPlayer.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@159"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp316678038#316678040#0(95"powerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#151"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp8615210624#1707"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -mtune=G5 -ftree-vectorize -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/ppc -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofSoundPlayer.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofSoundStream.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s316678040.102108
+e316678042.501409
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofSoundStream.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@159"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp316678040#316678042#0(95"powerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#151"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp8609798656#1707"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -mtune=G5 -ftree-vectorize -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/ppc -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofSoundStream.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofTexture.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s316678036.169479
+e316678038.628469
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofTexture.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@158"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.cpp316678036#316678038#0(95"powerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#150"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.cpp8614548256#1702"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -mtune=G5 -ftree-vectorize -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/ppc -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofTexture.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofTrueTypeFont.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s316678036.660429
+e316678040.288283
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofTrueTypeFont.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@163"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp316678036#316678040#0(95"powerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#155"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp8617282656#1712"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -mtune=G5 -ftree-vectorize -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/ppc -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofTrueTypeFont.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofUtils.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s316678042.501546
+e316678045.662265
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofUtils.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@153"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp316678042#316678045#0(95"powerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#145"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp8615201024#1695"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -mtune=G5 -ftree-vectorize -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/ppc -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofUtils.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofVideoGrabber.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s316678044.912601
+e316678047.336954
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofVideoGrabber.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@160"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp316678044#316678047#0(95"powerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#152"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp8615091424#1709"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -mtune=G5 -ftree-vectorize -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/ppc -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofVideoGrabber.o0#
+
+CCompileC build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofVideoPlayer.o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s316678045.662362
+e316678048.028941
+r1
+xCompileC
+xbuild/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofVideoPlayer.o
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@159"Compile /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp316678045#316678048#0(95"powerpc-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#151"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp8602106336#1707"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -funroll-loops -mtune=G5 -ftree-vectorize -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/openFrameworksUniversal.hmap -F/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources/ppc -I/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/ofVideoPlayer.o0#
+
+CCreateUniversalBinary /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx//openFrameworksUniversal.a normal "ppc i386"
+s316678073.370012
+e316678074.601501
+r1
+xCreateUniversalBinary
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx//openFrameworksUniversal.a
+xnormal
+xppc i386
+lSLF07#2@80"CreateUniversalBinary ../../lib/osx//openFrameworksUniversal.a normal "ppc i386"316678073#316678074#0(0"0(0#0#112"/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/ppc i3868614531200#733"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    /Developer/usr/bin/libtool -static /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/openFrameworksUniversal.a /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/openFrameworksUniversal.a -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx//openFrameworksUniversal.a0#
+
+CLibtool /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/openFrameworksUniversal.a normal i386
+s316678073.073326
+e316678073.369901
+r1
+xLibtool
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/openFrameworksUniversal.a
+xnormal
+xi386
+lSLF07#2@133"Libtool build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/openFrameworksUniversal.a normal i386316678073#316678073#0(0"0(0#0#0"8615184128#960"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    /Developer/usr/bin/libtool -static -arch_only i386 -L/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -filelist /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/openFrameworksUniversal.LinkFileList -framework AGL -framework ApplicationServices -framework AudioToolbox -framework Carbon -framework CoreAudio -framework CoreFoundation -framework CoreServices -framework GLUT -framework OpenGL -framework QuickTime -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/i386/openFrameworksUniversal.a0#
+
+CLibtool /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/openFrameworksUniversal.a normal ppc
+s316678048.029038
+e316678048.271240
+r1
+xLibtool
+x/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/openFrameworksUniversal.a
+xnormal
+xppc
+lSLF07#2@131"Libtool build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/openFrameworksUniversal.a normal ppc316678048#316678048#0(0"0(0#0#0"8614550336#957"    cd /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx    /Developer/usr/bin/libtool -static -arch_only ppc -L/Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../lib/osx -filelist /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/openFrameworksUniversal.LinkFileList -framework AGL -framework ApplicationServices -framework AudioToolbox -framework Carbon -framework CoreAudio -framework CoreFoundation -framework CoreServices -framework GLUT -framework OpenGL -framework QuickTime -o /Users/harishankar/Desktop/Kinect/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/ReleaseUniversal/openFrameworks.build/Objects-normal/ppc/openFrameworksUniversal.a0#
+
